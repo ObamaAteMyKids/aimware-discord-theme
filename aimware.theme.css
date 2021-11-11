@@ -1,7 +1,7 @@
 /*
 name: aimware theme
 author: hubert#0994
-version: 0.9
+version: 1.0
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap');
@@ -19,7 +19,7 @@ button {
 	--font-primary: 'Karla', sans-serif;
 	--font-display: var(--font-primary) !important;
 	--avatar-size: 32px;
-	--background-image: url('https://cdn.discordapp.com/attachments/907025385072504852/907025762765398046/emblem_256-1.png');
+	--background-image: url('https://cdn.discordapp.com/attachments/905060195443548180/908374480190046299/sus.jpg');
 	--home-image: url('https://cdn.discordapp.com/attachments/907025385072504852/907025762765398046/emblem_256-1.png');
 	--background-solid: #252525;
 	--background-solid-dark: #101010;
@@ -769,7 +769,7 @@ div[class^="splashBackground"] img {
 
 :root {
 	--avatar-size: 32px;
-	--background-image: url('https://cdn.discordapp.com/attachments/907025385072504852/907025762765398046/emblem_256-1.png');
+	--background-image: url('https://cdn.discordapp.com/attachments/905060195443548180/908374480190046299/sus.jpg');
 	--home-image: url('https://cdn.discordapp.com/attachments/907025385072504852/907025762765398046/emblem_256-1.png');
 	--background-solid: #252525;
 	--background-solid-dark: #101010;
